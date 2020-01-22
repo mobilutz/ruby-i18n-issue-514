@@ -13,3 +13,8 @@ irb> I18n.t('activerecord.models.broken_model', count: 1)
 ```
 
 See locales in https://github.com/mobilutz/ruby-i18n-issue-514/blob/master/config/locales/en.yml
+
+
+INFO:
+
+Problem solved with adding `rails-i18n` gem!
