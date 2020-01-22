@@ -13,6 +13,7 @@ gem 'puma', '~> 4.1'
 gem 'jbuilder', '~> 2.7'
 # Use Active Model has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
+gem 'i18n', '~>1.8.2'
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
